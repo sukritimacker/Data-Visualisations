@@ -100,6 +100,9 @@ y=[2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018]
 r=[39.79,44.28,51.12,60.42,58.44,62.48,69.94,73.72,77.85,86.83,93.58,85.32,89.95,110.36]
 '''
 
+## Sol 4.
+
+
 '''
 Q5. Given data is having distribution of sales of different laptops for the year 2018 in India (it has company name and number of laptops sold).
 Plot a pie graph to show the %age distribution for the year 2018 and also print the value of %age distribution of individual companies.
